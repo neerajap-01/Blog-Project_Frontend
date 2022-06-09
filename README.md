@@ -1,1 +1,1 @@
-# rideit
+# Blog Project with Front-end
